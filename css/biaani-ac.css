@@ -3906,6 +3906,12 @@ figcaption {
     font-weight: 300;
 }
 
+.tel {
+    cursor: pointer;
+    z-index: 10;
+    text-align: center;
+}
+
 .footer {
     z-index: 2;
     align-items: center;
